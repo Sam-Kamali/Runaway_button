@@ -5,7 +5,7 @@ const noBtn = document.querySelector(".no-btn");
 const wrapperRect = wrapper.getBoundingClientRect();
 const noBtnRect = noBtn.getBoundingClientRect();
 yesBtn.addEventListener("click", () => {
-  question.innerHTML = "Good choice :) </br> I like chocolate strawberries";
+  question.innerHTML = "Good cuz I like </br> chocolate strawberries";
 });
 noBtn.addEventListener("mouseover", () => {
   const i =
